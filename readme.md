@@ -1,0 +1,3 @@
+# Adam's Code Archive
+
+This repository is created to store backups and also to share my source code with the world. All source codes in this repository is licensed under Creative Commons Zero v1.0 Universal, therefore you can use my code in your projects. But for CS students, try to take inspiration from here instead of blindly copy-pasting without understanding what the hell it does. Either way, enjoy!
